@@ -1,3 +1,7 @@
+'''
+    Author:PWND0U
+    Ver:1.0
+'''
 from tkinter import *
 import tkinter.filedialog
 import json
